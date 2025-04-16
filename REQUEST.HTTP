@@ -5,10 +5,10 @@ POST http://localhost:5000/postdata
 Content-Type: application/json
 
 {
-    "id":4,
-    "name":"naveen",
-    "mark":70,
-    "grade":"B"
+    "id":1,
+    "name":"Raghu",
+    "mark":99,
+    "grade":"o"
 }
 
 //Delete data throug mark in a table
@@ -17,4 +17,21 @@ DELETE http://localhost:5000/delete/data/70
 DELETE http://localhost:5000/deletedata/4
 //Delete data through name in a table
 DELETE http://localhost:5000/data/raghu
-//Update the data,Id through update name and mark
+
+
+//Update the data,Id through update name
+PUT http://localhost:5000/updatename/1
+Content-Type: application/json
+
+{
+    "name":"Naveen"
+}
+
+//Update the data,id through update the mark and grade
+PUT http://localhost:5000/updatemark/1
+Content-Type: application/json
+
+{
+    "mark":90,
+    "grade":"A+"
+}
