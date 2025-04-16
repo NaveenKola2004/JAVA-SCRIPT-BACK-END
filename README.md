@@ -31,7 +31,7 @@
 - By useing all the above codes to we can run
 the api's
 
-- We get the correct results create database table like below i created
+- We get the correct results create database table like below i created(image is not displayed directly visit the image folder)
 
 ![MYSQL](images/Columns.png)
 
