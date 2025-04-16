@@ -1,7 +1,8 @@
 # JAVA-SCRIPT
 
-- USING JAVASCRIPT AND EXPRESS.JS,AND MYSQL2 USING CREATING THE RESTFUL APIS
-- PERFORMING THE CURD OPERATIONS
+- Using javascript and express & mysql2 creating the restful api's create
+
+- Performing the curd operations
 
 #EXPRESS.JS
 
@@ -22,4 +23,9 @@
 - For run the code use nodemon
 
 ```npm install nodemon```
+
+
+```nodemon filename.js```
+
+
 
