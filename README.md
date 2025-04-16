@@ -35,4 +35,6 @@ the api's
 
 ![MYSQL](images/Columns.png)
 
+- correctly install all packages and the mysql setup correctly we can use this all codes
+
 
