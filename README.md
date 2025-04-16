@@ -31,5 +31,8 @@
 - By useing all the above codes to we can run
 the api's
 
+- We get the correct results create database table like below i created
+
+![MYSQL](images/Columns.PNG)
 
 
