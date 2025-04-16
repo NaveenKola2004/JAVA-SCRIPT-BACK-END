@@ -28,4 +28,8 @@
 ```nodemon filename.js```
 
 
+- By useing all the above codes to we can run
+the api's
+
+
 
