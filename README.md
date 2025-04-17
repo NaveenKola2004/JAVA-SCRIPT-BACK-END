@@ -38,3 +38,6 @@ the api's
 - correctly install all packages and the mysql setup correctly we can use this all codes
 
 
+## MINIPROJECT
+
+### Check the code of MINIPROJECT.js (File)
